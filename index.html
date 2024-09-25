@@ -1,5 +1,3 @@
-# Distance Display Page
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,6 +64,7 @@
     </div>
 
     <script>
+        // Fetch the distance from the server
         fetch('http://192.168.189.217/distance')
             .then(response => {
                 if (!response.ok) {
@@ -80,6 +79,11 @@
                 document.getElementById('distance').textContent = 'Error fetching distance.';
                 console.error('Fetch error:', error);
             });
+
+        // Auto-refresh the page after 2 seconds
+        setTimeout(() => {
+            window.location.reload();
+        }, 2000);
     </script>
 </body>
 </html>
