@@ -1,6 +1,6 @@
 # Distance Display Project
 
-This README provides instructions on how to set up and run a web-based distance display system using an ESP32 microcontroller and an ultrasonic sensor.
+This provides instructions on how to set up and run a web-based distance display system using an ESP32 microcontroller and an ultrasonic sensor.
 
 ## Table of Contents
 
