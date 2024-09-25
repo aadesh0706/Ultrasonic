@@ -19,6 +19,15 @@ This project allows you to measure and display the distance measured by an ultra
 
 ---
 
+## Watch the Distance Display Project Video
+
+[![Watch the Video](https://img.youtube.com/vi/MzA-ijNaAXc/0.jpg)](https://youtube.com/shorts/MzA-ijNaAXc?feature=share)
+
+
+For more details, you can watch the video on YouTube.
+
+---
+
 ## Components Required
 
 - ESP32 Development Board
