@@ -2,6 +2,13 @@
 
 This provides instructions on how to set up and run a web-based distance display system using an ESP32 microcontroller and an ultrasonic sensor.
 
+![Profile Views](https://komarev.com/ghpvc/?username=aadesh0706&color=blue)  
+*Active since*: `September 2024`
+
+**Account From:** `September 2020`
+
+---
+
 ## Table of Contents
 
 1. [Overview](#overview)
